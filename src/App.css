@@ -1,4 +1,4 @@
-.heading {
+h1 {
     color:#2196f3;
   position: fixed;
   top: 0;
@@ -6,7 +6,7 @@
   transform: translateX(-50%);
   width: 100%;
   text-align: center;
-  background-color: white; /* optional, to cover overlapping content */
+  /* optional, to cover overlapping content */
   z-index: 1000;
   padding: 10px 0;
 }
