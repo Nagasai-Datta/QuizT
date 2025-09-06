@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import SelectionCard from './selectionCard.jsx'
-import './App.css';
 function App() {
   const [count, setCount] = useState(0)
 

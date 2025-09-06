@@ -1,8 +1,0 @@
-h1{
-    color: #2196f3;
-    position: absolute;   /* take out of normal flow */
-  top: 0;               /* distance from top of nearest positioned parent or page */
-  left: 50%;            /* horizontal centering */
-  transform: translateX(-50%); /* perfect center */
-  z-index: 1000;        /* make sure it’s on top */
-}
