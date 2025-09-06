@@ -1,0 +1,19 @@
+.cont{
+    height: 300px;
+    width: 600px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border:2px solid rgb(12, 125, 231);
+}
+.cont1{
+    width:500px;
+    margin:10px;
+    border-radius: 20px;
+    border: 25px solid blue;
+}
