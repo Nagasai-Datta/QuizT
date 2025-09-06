@@ -1,7 +1,8 @@
-import { useState } from 'react'
-import SelectionCard from './selectionCard.jsx'
+import { useState } from 'react';
+import SelectionCard from './selectionCard.jsx';
+import './App.css';
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <>
